@@ -72,5 +72,13 @@ API → Extract → Transform → Load → PostgreSQL → Análise de dados
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📚 Referência
+
+Pipeline desenvolvido como parte do meu aprendizado em Engenharia de Dados,
+seguindo o tutorial da Luiza (@vbluuiza).
+
+<a href="https://www.youtube.com/watch?v=I8qPqbXQBDU&t=3858s" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
+</a>
+
 
