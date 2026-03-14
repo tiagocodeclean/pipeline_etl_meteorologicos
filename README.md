@@ -30,9 +30,8 @@ A automação do pipeline é feita utilizando **Apache Airflow**, executando a c
 
 # 🏗️ Arquitetura do Pipeline
 
-<p align="center">
-  <img src="images/pipeline_architecture.png" width="800"/>
-</p>
+![Arquitetura do Pipeline](arquitetura_de_dados_draw.png)
+
 
 
 Fluxo do pipeline:
