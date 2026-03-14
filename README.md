@@ -81,4 +81,13 @@ seguindo o tutorial da Luiza (@vbluuiza).
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
 </a>
 
+## 📧 Contato
+
+Conecte-se comigo no LinkedIn:
+
+<a href="https://www.linkedin.com/in/tiagolesmo/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+
 
